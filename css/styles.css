@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+.home-box{
+    background-color: aqua;
+    width: 600px;
+    height: 600px;
+    
+    
+}
+.mother{
+    background-color: #e4f9f5;
+    width: 200px;
+    height: 200px;
+    justify-content: right;
+}
+.boy {
+    background: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 206px;
+}
+.girl {
+    background: blue;
+    width: 200px;
+    height: 200px;
+    margin-left: 412px;
+}
